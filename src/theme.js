@@ -6,8 +6,6 @@
 // refs.body.classList.replace(Theme.DARK, Theme.LIGHT);
 // localStorage.setItem('theme', JSON.stringify(Theme.LIGHT));
 
-// // а так же эти 
-
 // refs.themeSwitchToggle.setAttribute('checked', 'true');
 // refs.body.classList.add(Theme.DARK);
 
